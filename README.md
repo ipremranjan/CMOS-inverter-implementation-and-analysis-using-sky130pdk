@@ -17,7 +17,7 @@ Here following are some screenshots of the project I have attached during the de
 require "Tools required"
 The tools required to carry out the following simulations, layout design and analysis are mentioned below:
 For the design and simulation of our Inverter.
-    Spice netlist simulation - Ngspice
-    Layout Design and DRC - Magic
-    LVS - Netgen
-    Schematic Capture - Xschem
+    - Spice netlist simulation - Ngspice
+    - Layout Design and DRC - Magic
+    - LVS - Netgen
+    - Schematic Capture - Xschem
