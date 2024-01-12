@@ -1,0 +1,22 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1704996569
+<< error_p >>
+rect -60 180 150 190
+rect -30 154 -29 180
+rect 110 154 150 180
+rect -30 150 150 154
+<< nwell >>
+rect -60 -50 150 190
+<< pmos >>
+rect 30 -10 60 100
+<< ndiff >>
+rect -30 150 110 180
+<< pdiff >>
+rect -20 -10 30 100
+rect 60 -10 110 100
+<< poly >>
+rect 30 100 60 130
+rect 30 -50 60 -10
+<< end >>

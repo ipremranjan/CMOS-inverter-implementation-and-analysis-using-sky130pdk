@@ -1,0 +1,7 @@
+* SPICE3 file created from inverter_design.ext - technology: sky130A
+
+.option scale=10m
+
+X0 out in vss vss sky130_fd_pr__nfet_01v8 ad=4.5n pd=0.29m as=4n ps=0.28m w=100 l=15
+X1 out in vdd vdd sky130_fd_pr__pfet_01v8 ad=10.5n pd=0.52m as=10.5n ps=0.52m w=210 l=15
+C0 vdd vss 2.02643f **FLOATING
