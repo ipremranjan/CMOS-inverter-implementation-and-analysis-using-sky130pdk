@@ -12,3 +12,10 @@ Here following are some screenshots of the project I have attached during the de
 ![image](https://github.com/ipremranjan/CMOS-inverter-implementation-and-analysis-using-sky130pdk/assets/67028181/7d8e08da-1763-4ab6-b333-0b882fbb562e)
 
 ![image](https://github.com/ipremranjan/CMOS-inverter-implementation-and-analysis-using-sky130pdk/assets/67028181/3f47af36-60d0-4f70-bf4c-88c033234d3f)
+
+The tools required to carry out the following simulations, layout design and analysis are mentioned below:
+For the design and simulation of our Inverter.
+    Spice netlist simulation - Ngspice
+    Layout Design and DRC - Magic
+    LVS - Netgen
+    Schematic Capture - Xschem
